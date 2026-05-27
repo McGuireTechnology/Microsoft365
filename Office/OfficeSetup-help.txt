@@ -1,0 +1,13 @@
+Office Deployment Tool
+
+Setup [mode] [path]
+
+Setup /download [path to configuration file]
+Setup /configure [path to configuration file]
+Setup /customize [path to configuration file]
+Setup /help
+
+/download Downloads files to create an Office installation source
+/configure Adds, removes, or configures an Office installation
+/customize Applies settings for Office applications
+/help Displays this message
